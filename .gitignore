@@ -1,3 +1,4 @@
 /.vscode
-/tasks/
-[oa]
+/tasks/*
+!sub/
+*[oa]*.*
